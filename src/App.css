@@ -41,9 +41,9 @@ body{
 }
 
 .card li {
-  text-align: left;
-  font-size: 21px;
-  line-height: 2;
+    font-size: 15px;
+    line-height: 1.5;
+    text-align: left;
 }
 .card button {
   width: 100%;
