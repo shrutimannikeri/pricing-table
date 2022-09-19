@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+body{
+  background-color:#6940ff;
+}
+
+.card li {
+  text-align: left;
+  font-size: 21px;
+  line-height: 2;
+}
+.card button {
+  width: 100%;
+  font-size: 20px;
+  background: #0000ff87;
+  border-radius: 28px;
+  font-weight: 700;
+  color: #fff;
+}
+.card li span {
+  padding: 0 10px;
+}
